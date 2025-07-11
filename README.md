@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @Srihansu1
-- 👀 I’m interested in new technologies...
-- 🌱 I’m recently graduated with a Btech degree in mechanical engineering but i want to start my acreer as a front end developer
-- 💞️ during my engineering i learn some programming languages like C, C++, HTML, CSS, JS, REACT JS
-- 📫  reach me through srihansuanik2001@gmail.com
+# Hello, I'm Srihansu Panda
 
-<!---
-Srihansu1/Srihansu1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A Cloud Enthusiast & Aspiring Software Development Engineer (SDE)  
+Currently building skills in Backend Development, DevOps, and Cloud Deployment  
+
+## 💻 Tech Stack:
+- Languages: Python, Java, JavaScript  
+- Cloud: AWS (Certified Cloud Practitioner)(EC2, S3, VPC, IAM, IOT, LAMBDA)  
+- Tools: Git, VS Code, Pycharm, IntelliJ
+- Database: MySQL, PostgreSQL
+- Web: HTML, CSS, JavaScript 
+
+## What I’m currently working on:
+- Python automation projects  
+- AWS cloud deployment and infrastructure management  
+- Java & JavaScript DSA for coding interviews  
+
+
+## 📫 Let's Connect:
+Github: https://github.com/Srihansu1
+LinkedIn: https://www.linkedin.com/in/srihansu-panda-9830a327b/
+Email: srihansuanik2001@gmail.com  
